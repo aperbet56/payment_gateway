@@ -6,7 +6,7 @@ Création d'un formulaire de paiement par carte bancaire en HTML5, CSS3 et JavaS
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/payment_gateway/
 
 ## Développez avec
 
