@@ -11,7 +11,7 @@ Lien vers le projet : https://aperbet56.github.io/payment_gateway/
 ## Développez avec
 
 - Utilisation des balises sémantiques HTML5
-- CSS
+- CSS3
 - Flexbox
 - Animations CSS
 - Importation de la police Poppins
