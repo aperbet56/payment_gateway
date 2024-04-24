@@ -80,6 +80,19 @@ form .row .col {
     display: block;
 }
 
+.col .input__box input {
+    appearance: none;
+    -moz-appearance: textfield; /* Suppression des flèche de l'input number sur Mozilla */
+}
+
+
+/* Suppression des flèche de l'input number sur Chrome */
+.col .input__box input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button { 
+-webkit-appearance: none;
+margin: 0;
+}
+
 .col .input__box input, .col .input__box select {
     width: 100%;
     border: 1px solid #cccccc;
