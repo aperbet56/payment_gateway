@@ -1,5 +1,7 @@
 ## FORMULAIRE : PAIEMENT PAR CARTE BANCAINRE (PAYMENT GATEMAY FORM)
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création d'un formulaire de paiement par carte bancaire en HTML5, CSS3 et JavaScript. J'ai utilisé le JavaScript pour formater le champ de saisie : Numéro de carte bancaire.
